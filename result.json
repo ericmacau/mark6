@@ -2,7 +2,7 @@
 	"parameters": {
 		"result": {
 			"drawNo": "19/081",
-			"drawDate": 1563292800000,
+			"drawDate": 1563379200000,
 			"drawDateStr": "2019-07-16",
 			"number1": 2,
 			"number2": 4,
@@ -43,7 +43,7 @@
 				"jackpotDescription": null
 			},
 			"jackpot": null,
-			"updateDate": 1563406201819
+			"updateDate": 1563379200000
 		},
 		"statusCode": "0"
 	}
