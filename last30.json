@@ -1,8 +1,8 @@
 [
 		{
 			"drawNo": "19/081",
-			"drawDate": 1563292800000,
-			"drawDateStr": "2019-07-16",
+			"drawDate": 1563379200000,
+			"drawDateStr": "2019-07-18",
 			"number1": 2,
 			"number2": 4,
 			"number3": 8,
@@ -42,7 +42,7 @@
 				"jackpotDescription": null
 			},
 			"jackpot": null,
-			"updateDate": 1563406201819
+			"updateDate": 1563379200000
 		},
 	{
 		"drawNo": "19/080",
