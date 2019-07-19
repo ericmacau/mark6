@@ -1,1 +1,50 @@
-{"parameters":{"result":{"drawNo":"19/080","drawDate":1563206400000,"drawDateStr":"2019-07-16","number1":6,"number2":16,"number3":22,"number4":28,"number5":37,"number6":45,"numberX":13,"numbers":[],"prize1Amount":"-","prize1Qty":"-","prize2Amount":"$1,721,370","prize2Qty":"1.5","prize3Amount":"$67,170","prize3Qty":"102.5","prize4Amount":"9,600","prize4Qty":"254.5","prize5Amount":"640","prize5Qty":"4,421.6","prize6Amount":"320","prize6Qty":"6,583.3","prize7Amount":"40","prize7Qty":"84,187.6","matched":[false,false,false,false,false,false,false],"nextInfo":{"drawNo":"19/081","drawDate":1563379200000,"drawDateStr":"2019-07-18","jackpot":"$38,000,000","jackpotDescription":null},"jackpot":null,"updateDate":1563406201819},"statusCode":"0"}}
+{
+	"parameters": {
+		"result": {
+			"drawNo": "19/081",
+			"drawDate": 1563292800000,
+			"drawDateStr": "2019-07-16",
+			"number1": 2,
+			"number2": 4,
+			"number3": 8,
+			"number4": 11,
+			"number5": 17,
+			"number6": 31,
+			"numberX": 19,
+			"numbers": [],
+			"prize1Amount": "$23,564,150",
+			"prize1Qty": "1.5",
+			"prize2Amount": "$$284,230",
+			"prize2Qty": "6.5",
+			"prize3Amount": "$26,920",
+			"prize3Qty": "183.0",
+			"prize4Amount": "9,600",
+			"prize4Qty": "423.2",
+			"prize5Amount": "640",
+			"prize5Qty": "7,545.2",
+			"prize6Amount": "320",
+			"prize6Qty": "10,065.5",
+			"prize7Amount": "40",
+			"prize7Qty": "118,925.6",
+			"matched": [
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false
+			],
+			"nextInfo": {
+				"drawNo": "19/082",
+				"drawDate": 1563552000000,
+				"drawDateStr": "2019-07-20",
+				"jackpot": "$8,000,000",
+				"jackpotDescription": null
+			},
+			"jackpot": null,
+			"updateDate": 1563406201819
+		},
+		"statusCode": "0"
+	}
+}
