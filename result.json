@@ -1,1 +1,50 @@
-{"parameters":{"result":{"drawNo":"20/008","drawDate":1580486400000,"drawDateStr":"2020-02-01","number1":3,"number2":5,"number3":30,"number4":31,"number5":43,"number6":48,"numberX":13,"numbers":[],"prize1Amount":"$38,895,010","prize1Qty":"1.5","prize2Amount":"$1,356,160","prize2Qty":"5.0","prize3Amount":"$80,180","prize3Qty":"225.5","prize4Amount":"9,600","prize4Qty":"746.5","prize5Amount":"640","prize5Qty":"12,442.5","prize6Amount":"320","prize6Qty":"20,421.0","prize7Amount":"40","prize7Qty":"239,830.4","matched":[false,false,false,false,false,false,false],"nextInfo":{"drawNo":"20/009","drawDate":1595260800000,"drawDateStr":"2020-07-21","jackpot":"$8,000,000","jackpotDescription":null},"jackpot":null,"updateDate":1582732530954},"statusCode":"0"}}
+{
+	"parameters": {
+		"result": {
+			"drawNo": "20/008",
+			"drawDate": 1580486400000,
+			"drawDateStr": "2020-02-01",
+			"number1": 3,
+			"number2": 5,
+			"number3": 30,
+			"number4": 31,
+			"number5": 43,
+			"number6": 48,
+			"numberX": 13,
+			"numbers": [],
+			"prize1Amount": "$38,895,010",
+			"prize1Qty": "1.5",
+			"prize2Amount": "$1,356,160",
+			"prize2Qty": "5.0",
+			"prize3Amount": "$80,180",
+			"prize3Qty": "225.5",
+			"prize4Amount": "9,600",
+			"prize4Qty": "746.5",
+			"prize5Amount": "640",
+			"prize5Qty": "12,442.5",
+			"prize6Amount": "320",
+			"prize6Qty": "20,421.0",
+			"prize7Amount": "40",
+			"prize7Qty": "239,830.4",
+			"matched": [
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false
+			],
+			"nextInfo": {
+				"drawNo": "-",
+				"drawDate": null,
+				"drawDateStr": "-",
+				"jackpot": "-",
+				"jackpotDescription": null
+			},
+			"jackpot": null,
+			"updateDate": 1582732530954
+		},
+		"statusCode": "0"
+	}
+}
